@@ -1,0 +1,32 @@
+{
+  "subject": {
+    "body": {
+      "description": "An exaggerated hourglass figure with disproportionately large, curvaceous low back and hips, creating an extreme waist-to-hip ratio with a very narrow, snatched waist. Her shoulders are narrower in comparison to the expansive hips and massive gluteus muscles, which are heavily developed. The spine is visibly curved due to the pose and proportions. Her thighs are thick and muscular.",
+      "pose": "Kneeling on the floor, facing away from the camera but looking back over her shoulder, holding a smartphone to take a mirror selfie, showcasing her back and side profile."
+    },
+    "wardrobe": {
+      "top": "A loose red crop t-shirt, tied or lifted slightly at the back.",
+      "bottom": "Very short athletic shorts, in the colors of the SPAIN flag, featuring a prominent white text (not inverted) that reads 'SPAIN' across the back.",
+      "accessories": "Red smartphone case, simple necklace."
+    }
+  },
+  "camera": {
+    "type": "Smartphone camera (mirror selfie)",
+    "lens": "Wide-angle, capturing the full figure and background.",
+    "aspect_ratio": "9:16"
+  },
+  "lighting": {
+    "type": "Artificial night light from large windows, combined with soft indoor gym lighting.",
+    "quality": "Soft and diffused, highlighting the textures of the skin and clothing, defining the muscular curves.",
+    "direction": "From the left and above."
+  },
+  "scene": {
+    "location": "Modern gym.",
+    "background": "Large windows showing a night Paris cityscape, various pieces of cardio equipment (treadmills, bikes) out of focus, reflections in the large mirror.",
+    "props": "A light blue exercise mat on the floor."
+  },
+  "texture": {
+    "clothing": "Soft cotton t-shirt, stretchy athletic fabric for the shorts.",
+    "skin": "Smooth, natural skin."
+  }
+}
